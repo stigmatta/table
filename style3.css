@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(224, 163, 30);
+    margin: 0;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+tr{
+    text-align: center;
+}
+table{
+    border-spacing: 0;
+}
+th,td{
+    width: 300px;
+    height: 70px;
+}
+.tr-head{
+    background-color: black;
+    color: white;
+    margin: 0;
+    border: 1px solid rgb(0, 0, 0);
+}
+.tr-yellow{
+    background-color: rgb(224, 163, 30);
+}
+.tr-light{
+    background-color: rgb(236, 221, 81);
+}
